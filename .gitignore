@@ -1,2 +1,4 @@
 *.html
 task1_outputs/
+task2_outputs/
+.vscode
