@@ -2,4 +2,6 @@
 task1_outputs/
 task2_outputs/
 task3_outputs/
+task4_outputs/
 .vscode
+*.pdf
